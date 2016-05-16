@@ -20,7 +20,7 @@ In advance of the ID 2020 Design DesignShop, all participants were requested to 
 * [From Identity to Refugee Status Determination](topics-and-advance-readings/identity_to_refugee_status_determination.md) — by Susan R. Ramonat  \<SRamonat@seic.com\>
 * [Identity System Essentials](topics-and-advance-readings/Identity-System-Essentials.pdf) — by Samuel Smith and Dmitry Khovratovich
 * [No Secure Protocol = No Sovereign Identity](topics-and-advance-readings/no-secure-protocol-equals-no-sovereign-identity.md) - by Greg Slepak *[@taoeffect](https://twitter.com/taoeffect) \<hi@okturtles.com\>*
-* [The “Immutable Me” - Data Provenance Fuelling New Value Chains](topics-and-advance-readings/the-immutable-me.pdf) — by [@George Samman](https://twitter.com/sammantic) \<George.Samman@meeco.me\>*  and [@Katryna Dow](https://twitter.com/katrynadow) \<Katryna.Dow@meeco.me\>*
+* [The “Immutable Me” - Data Provenance Fuelling New Value Chains](topics-and-advance-readings/the-immutable-me.pdf) — by [George Samman](https://twitter.com/sammantic) \<George.Samman@meeco.me\>  and [Katryna Dow](https://twitter.com/katrynadow) \<Katryna.Dow@meeco.me\>
 * [The Path to Self-Sovereign Identity](topics-and-advance-readings/the-path-to-self-sovereign-identity.md) — by Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
 
 ### 2015 - Past topic papers submitted:
